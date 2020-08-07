@@ -1,0 +1,24 @@
+.u-section-1 {background-image: url("images/04c92f4b1888be1f59c0cf8549526806.jpeg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 735px}
+.u-section-1 .u-group-1 {width: 582px; min-height: 334px; height: auto; margin: 117px auto 60px 0}
+.u-section-1 .u-container-layout-1 {padding-bottom: 0}
+.u-section-1 .u-text-1 {font-size: 6rem; margin: 86px 120px 0 0}
+.u-section-1 .u-social-icons-1 {height: 60px; min-height: 16px; width: 220px; min-width: 88px; white-space: nowrap; animation-duration: 1000ms; margin: 26px auto 0 26px}
+.u-section-1 .u-icon-1 {height: 60px}
+.u-section-1 .u-icon-2 {height: 60px}
+.u-section-1 .u-icon-3 {height: 60px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-group-1 {width: 572px}
+.u-section-1 .u-text-1 {position: relative; margin-right: 75px} }
+
+@media (max-width: 991px){ .u-section-1 .u-group-1 {width: 463px}
+.u-section-1 .u-text-1 {margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 781px}
+.u-section-1 .u-group-1 {width: 475px; margin-top: 107px; margin-bottom: 20px} }
+
+@media (max-width: 575px){ .u-section-1 {background-position: 37.82% 50%}
+.u-section-1 .u-sheet-1 {min-height: 701px}
+.u-section-1 .u-group-1 {width: 340px; min-height: 566px; margin-bottom: 0}
+.u-section-1 .u-text-1 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-social-icons-1 {margin-top: 191px} }
